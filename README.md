@@ -12,6 +12,8 @@ Here I have some of the projects that I am working on in my own time
 
 ><https://any-api.com/spotify_com/spotify_com/docs/API_Description>
 ><https://developer.spotify.com/>
+
+>Later in the program, possibly consider integrating Genius with this <https://rapidapi.com/Glavier/api/genius-song-lyrics1/>
 ***
 
 # End
