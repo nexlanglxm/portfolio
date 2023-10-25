@@ -1,6 +1,8 @@
-# The Neil Project 
+# The Neil Project [^1]
+
 ***
-###### Neilject? name pending
+
+[^1] Neilject? name pending
 
 Here I have some of the projects that I am working on in my own time
 
